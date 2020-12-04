@@ -1,2 +1,7 @@
 some text
 more text
+this text should only go to the feature branch
+this should be event more text to feature branch
+but not so lets see if it works main branch
+
+
